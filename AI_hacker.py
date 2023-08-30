@@ -3,7 +3,7 @@ import random
 import openai
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = ''
 
 # Path to the text file
 text_file_path = r'C:\Users\haris\Desktop\combined.txt'
