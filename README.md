@@ -7,4 +7,4 @@ This repo contains tools which can be used to attack generative AI via prompt in
 3. change model engine in generate modulation function
    
 # NOTE
-AI_hacker.py randomly choose prompt from corpus 
+AI_hacker.py randomly choose prompt from corpus and some prompts are broken need to be fixed
