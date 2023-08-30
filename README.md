@@ -11,3 +11,6 @@ This repo contains tools which can be used to attack generative AI via prompt in
 
 # NOTE
 AI_hacker.py randomly choose prompt from corpus and some prompts are broken need to be fixed
+
+# Credit
+https://huggingface.co/datasets/jerpint-org/HackAPrompt-AICrowd-Submissions for the amazing dataset
